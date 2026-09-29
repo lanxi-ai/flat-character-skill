@@ -1,0 +1,6 @@
+interface:
+  display_name: "无相绘境 · Formless Tales"
+  short_description: "将真人照片、动漫人物与人物插画转为无五官色块作品，并设计适配场景"
+  default_prompt: "使用 $artifact-template-flat-character 处理我上传的人物图片，保留人物特征、原姿势和取景范围，设计适配场景，生成无五官的平面色块插画。"
+policy:
+  allow_implicit_invocation: true
